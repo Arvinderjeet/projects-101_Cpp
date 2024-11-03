@@ -1,9 +1,4 @@
-﻿//
-// Created by Arvinderjeet singh on 11/2/2024.
-//
-//memory game
-
-#include "iostream"
+﻿#include "iostream"
 #include "string"
 #include <cstdlib>
 #include <ctime>
