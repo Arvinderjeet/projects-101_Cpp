@@ -30,7 +30,7 @@ void intermediate() {
             sleep(2);
             return;
         }
-        cout << "yoo!! correct again!!!" << endl;
+        cout << "yoo!! correct!!!" << endl;
         sleep(1);
         no_of_digits++;
         random_value.clear();
